@@ -27,8 +27,6 @@
 ### Languages and Tools
 
 <br/>
-
-### Languages
 <p align="left">
   <a href="https://ruby-doc.org/" target="_blank">
     <img
