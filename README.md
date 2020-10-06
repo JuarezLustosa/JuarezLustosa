@@ -22,7 +22,7 @@
   </a>
 </p>
 
-### Hi there! 
+### Hi there!
 
 ### Abstract
 
@@ -32,10 +32,10 @@
 
 ### Languages and Tools
 
-- Languages 
 <br/>
 <p align="left">
-  <a href="https://ruby-doc.org/" target="_blank">
+  <a href="https://ruby-doc.org/"
+    target="_blank">
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original.svg"
       alt="aws"
@@ -43,7 +43,8 @@
       height="50"
     />
   </a>
-  <a href="https://www.erlang.org/" target="_blank">
+  <a href="https://www.erlang.org/"
+    target="_blank">
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/erlang/erlang-original.svg"
       alt="docker"
@@ -51,7 +52,8 @@
       height="50"
     />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank">
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
       alt="javascript"
@@ -59,7 +61,8 @@
       height="50"
     />
   </a>
-  <a href="https://nodejs.org" target="_blank">
+  <a href="https://nodejs.org"
+    target="_blank">
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
@@ -67,12 +70,17 @@
       height="50"
     />
   </a>
- </p>
-<br/>
-
-- Frameworks
-<p align="left">
-   <a href="https://reactjs.org/" target="_blank">
+  <a href="https://rubyonrails.org/"
+    target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg"
+      alt="rails"
+      width="50"
+      height="50"
+    />
+  </a>
+  <a href="https://reactjs.org/"
+    target="_blank">
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
       alt="react"
@@ -80,11 +88,8 @@
       height="50"
     />
   </a>
-</p>
-
-- Databases
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank">
+  <a href="https://www.docker.com/"
+    target="_blank">
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg"
       alt="docker"
@@ -92,7 +97,8 @@
       height="50"
     />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank">
+  <a href="https://www.mongodb.com/"
+    target="_blank">
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongodb"
@@ -100,7 +106,8 @@
       height="50"
     />
   </a>
-  <a href="https://www.postgresql.org" target="_blank">
+  <a href="https://www.postgresql.org"
+    target="_blank">
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"
       alt="postgresql"
@@ -108,11 +115,8 @@
       height="50"
     />
   </a>
-</p>
-
-- Cloud Platforms
-<p align="left">
-  <a href="https://aws.amazon.com/" target="_blank">
+  <a href="https://aws.amazon.com/"
+    target="_blank">
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
       alt="typescript"
@@ -120,7 +124,8 @@
       height="50"
     />
   </a>
-  <a href="https://www.heroku.com/" target="_blank">
+  <a href="https://www.heroku.com/"
+    target="_blank">
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/heroku/heroku-plain-wordmark.svg"
       alt="typescript"
@@ -128,16 +133,13 @@
       height="50"
     />
   </a>
-</p>
-
-- Tools
-<p align="left">
-  <a href="https://www.rabbitmq.com" target="_blank">
+  <a href="https://www.rabbitmq.com"
+    target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"
       alt="rabbitMQ"
-      width="40"
-      height="40"
+      width="50"
+      height="50"
     />
   </a>
 </p>
@@ -145,4 +147,3 @@
 ### Find me around the web 🌎:
 
 - 💼  Connecting professional <a href="https://www.linkedin.com/in/juarezlustosa/">LinkedIn</a>.
-
