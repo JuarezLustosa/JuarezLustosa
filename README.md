@@ -1,6 +1,12 @@
 ## Juarez Lustosa - Software Engineer
 
 <p align="center">
+  <a href="#">
+    <img align="center" width="280" src="worker.gif" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
