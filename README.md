@@ -117,9 +117,17 @@
       height="50"
     />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
+  <a href="https://aws.amazon.com/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
+      src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+      alt="typescript"
+      width="50"
+      height="50"
+    />
+  </a>
+  <a href="https://www.heroku.com/" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/heroku/heroku-plain-wordmark.svg"
       alt="typescript"
       width="50"
       height="50"
