@@ -28,7 +28,7 @@
 
 - 👨‍💻 I'm currently working full-time at **Decisiv**.
 - 🌱 Learning more about and studying: **NodeJS, Elixir**.
-- 💙 Interests: games 👾 books .
+- 💙 Interests: :video_game: books :blue_book: 
 
 ### Languages and Tools
 
