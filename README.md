@@ -26,7 +26,7 @@
 
 ### Abstract
 
-- 👨‍💻 I'm currently working full-time at **Codeminer42**.
+- 👨‍💻 I'm currently working full-time at **Decisiv**.
 - 🌱 Learning more about and studying: **NodeJS, Elixir**.
 - 💙 Interests: games 👾 books .
 
