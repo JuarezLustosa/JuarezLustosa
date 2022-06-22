@@ -1,149 +1,67 @@
-## Juarez Lustosa - Software Engineer
+<h2 align="center">Hi 👋! My name is Juarez Lustosa and I'm a Software Engineer, from Brazil</h2>
 
-<p align="center">
-  <a href="#">
-    <img align="center" width="280" src="worker.gif" />
-  </a>
-</p>
+###
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=juarezlustosa&layout=compact"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=juarezlustosa&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=onedark"
-    />
-  </a>
-</p>
+<br clear="both">
 
-### Hi there!
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/Gkynl6D09SgURa9jF0/giphy.gif"  />
+</div>
 
-### Abstract
+###
 
-- 👨‍💻 I'm currently working full-time at **Decisiv**.
-- 🌱 Learning more about and studying: **NodeJS, Elixir**.
-- 💙 Interests: :video_game: games :blue_book: books
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=juarezlustosa" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=juarezlustosa" height="150" alt="languages graph"  />
+</div>
 
-### Languages and Tools
+###
 
-<br/>
-<p align="left">
-  <a href="https://ruby-doc.org/"
-    target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original.svg"
-      alt="aws"
-      width="50"
-      height="50"
-    />
-  </a>
-  <a href="https://www.erlang.org/"
-    target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/erlang/erlang-original.svg"
-      alt="docker"
-      width="50"
-      height="50"
-    />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="50"
-      height="50"
-    />
-  </a>
-  <a href="https://nodejs.org"
-    target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="50"
-      height="50"
-    />
-  </a>
-  <a href="https://rubyonrails.org/"
-    target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg"
-      alt="rails"
-      width="50"
-      height="50"
-    />
-  </a>
-  <a href="https://reactjs.org/"
-    target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="50"
-      height="50"
-    />
-  </a>
-  <a href="https://www.docker.com/"
-    target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      width="50"
-      height="50"
-    />
-  </a>
-  <a href="https://www.mongodb.com/"
-    target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="50"
-      height="50"
-    />
-  </a>
-  <a href="https://www.postgresql.org"
-    target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql"
-      width="50"
-      height="50"
-    />
-  </a>
-  <a href="https://aws.amazon.com/"
-    target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-      alt="typescript"
-      width="50"
-      height="50"
-    />
-  </a>
-  <a href="https://www.heroku.com/"
-    target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/heroku/heroku-plain-wordmark.svg"
-      alt="typescript"
-      width="50"
-      height="50"
-    />
-  </a>
-  <a href="https://www.rabbitmq.com"
-    target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"
-      alt="rabbitMQ"
-      width="50"
-      height="50"
-    />
-  </a>
-</p>
+<br clear="both">
 
-### Find me around the web 🌎:
+<img href="https://raw.githubusercontent.com/juarezlustosa/juarezlustosa/blob/output/snake.svg" alt="Snake animation" />
 
-- 💼  Connecting professional <a href="https://www.linkedin.com/in/juarezlustosa/">LinkedIn</a>.
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" width="42" alt="ruby logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="30" width="42" alt="elixir logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="30" width="42" alt="rails logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" width="42" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="30" width="42" alt="bulma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" width="42" alt="android logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" width="42" alt="angularjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/juarezlustosa/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/1777247/juarez-lustosa" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=juarezlustosa.juarezlustosa&"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=juarezlustosa&theme=dark" alt="Layout with last medium posts"  />
+</div>
+
+###
